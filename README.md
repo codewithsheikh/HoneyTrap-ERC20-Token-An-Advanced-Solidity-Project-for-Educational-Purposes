@@ -19,6 +19,6 @@ HoneyTrap is designed solely for educational purposes and is not intended for pr
 Connect with Me
 For more insights into blockchain development and to explore additional projects, feel free to connect with me:
 
-****LinkedIn: Faizan Sheikh
+LinkedIn: Faizan Sheikh
 
-****Website: www.sheikhfaizan.com
+Website: www.sheikhfaizan.com
