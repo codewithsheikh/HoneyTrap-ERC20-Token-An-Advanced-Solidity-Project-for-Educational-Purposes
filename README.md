@@ -35,5 +35,7 @@ HoneyTrap is intended solely for educational purposes and should not be used in 
 **Connect and Collaborate**
 I invite you to connect with me to discuss blockchain development, smart contract security, and decentralized finance (DeFi). Explore additional projects and insights through the following channels:
 
-**LinkedIn:** Faizan Sheikh
+
+**LinkedIn:** https://www.linkedin.com/in/ifzsheikh/
+
 **Website:** www.sheikhfaizan.com
